@@ -29,7 +29,7 @@ import com.robertwaltman.homework.subscription.SubscriptionRepository;
 
 @RunWith(MockitoJUnitRunner.class)
 @SpringBootTest
-public class HomeworkApplicationTests {
+public class HomeworkServiceTests {
 
 	@Mock
 	SubscriptionRepository theSubRepo;
